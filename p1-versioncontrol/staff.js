@@ -80,6 +80,14 @@ const staff = [
         foto:"",
     },
     {
+        name: "Muhammad Fhanus Meitama Puta",
+        division: "PIP",
+        batch: "2026",
+        role: "Member",
+        github: "fhanus123",
+        foto:"",
+    },
+    {
         name: "Muhammad Fachry Imthiyaz",
         division: "PTI",
         batch: "2026",
